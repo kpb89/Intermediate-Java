@@ -2,7 +2,6 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 import java.util.ArrayList;
-//Kerilee Bookleiner
 
 //The frame represents the whole window
 class DrawingShapes extends JFrame {
