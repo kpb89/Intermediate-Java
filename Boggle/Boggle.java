@@ -5,7 +5,6 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.io.PrintWriter;
 import java.io.IOException;
-//Kerilee Bookleiner
 
 public class Boggle{
 	public static void main(String args[]){
