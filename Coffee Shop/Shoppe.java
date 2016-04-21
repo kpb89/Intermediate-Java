@@ -1,4 +1,4 @@
-//Kerilee Bookleiner
+
 public class Shoppe{
 	public static void main(String[] args){
 		int menuChoice = 0, coffeeSize = 0, monCoffeeAmount = 0, muffinAmount = 0;
